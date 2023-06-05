@@ -33,6 +33,5 @@ jobs:
       with:
         api_key: ${{secrets.DD_API_KEY}}
         app_key: ${{secrets.DD_APP_KEY}}
-        public_ids: '6yx-m8u-6gx'
-        count: '1, 2, 3, ..., 100'
+        public_ids: '6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx, 6yx-m8u-6gx'
         
